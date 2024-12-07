@@ -10,7 +10,7 @@ def trap(number):
 n = int(input('Введите число от 3 до 20: '))
 
 result = trap(n)
-print("Пароль", result)
+print("Пароль: ", result)
 
 
 
